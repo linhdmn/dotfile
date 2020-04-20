@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/dnlinh/Projects'
+let g:netrw_dirhist_5='/home/dnlinh'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_3='/home/dnlinh'
+let g:netrw_dirhist_2='/home/dnlinh/.config'
+let g:netrw_dirhist_1='/home/dnlinh/.config/nvim'
