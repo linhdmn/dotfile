@@ -1,0 +1,5 @@
+*/30 * * * * rsync -avu --delete "/home/dnlinh/.config/i3" "/home/dnlinh/Projects/dotfile/i3"
+*/30 * * * * rsync -avu --delete "/home/dnlinh/.config/dunst" "/home/dnlinh/Projects/dotfile/dunst"
+*/30 * * * * rsync -avu --delete "/home/dnlinh/.config/i3status" "/home/dnlinh/Projects/dotfile/i3status"
+*/30 * * * * rsync -avu --delete "/home/dnlinh/.config/nvim" "/home/dnlinh/Projects/dotfile/nvim"
+*/30 * * * * sh /home/dnlinh/Projects/dotfile/autosync_dotfile.sh
